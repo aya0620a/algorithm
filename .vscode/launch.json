@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/aotom/OneDrive/デスクトップ/データ構造とアルゴリズム実習/01D",
-      "program": "c:/Users/aotom/OneDrive/デスクトップ/データ構造とアルゴリズム実習/01D/build/Debug/outDebug",
+      "cwd": "c:/Users/aotom/OneDrive/デスクトップ/データ構造とアルゴリズム実習/day1/01D",
+      "program": "c:/Users/aotom/OneDrive/デスクトップ/データ構造とアルゴリズム実習/day1/01D/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
