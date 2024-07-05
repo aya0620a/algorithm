@@ -58,6 +58,7 @@
   "C_Cpp_Runner.msvcSecureNoWarnings": false,
   "files.associations": {
     "*.css": "tailwindcss",
-    "ios": "c"
+    "ios": "c",
+    "random": "c"
   }
 }
